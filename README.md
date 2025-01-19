@@ -49,5 +49,5 @@ A simple Python-based web application that allows users to upload a CSV file, fi
 
 ### Author
 
-Feel free to reach out at https://www.linkedin.com/in/sooraj-krishna-k-p-9030642b1/ or visit https://portfolio-one-hazel-89.vercel.app/.
-```
+Feel free to reach out at https://www.linkedin.com/in/sooraj-krishna-k-p-9030642b1/ 
+or visit https://portfolio-one-hazel-89.vercel.app/.
